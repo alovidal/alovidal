@@ -29,6 +29,7 @@ Bienvenido a mi perfil de GitHub. Soy un programador en crecimiento, enfocado me
 ### 📈 Estadísticas de GitHub
 
 ![alovidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=alovidal&show_icons=true&theme=radical)
+![alovidal's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/api?username=alovidal&show_icons=true&theme=radical)
 
 ---
 
