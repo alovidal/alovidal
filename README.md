@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Alonso Vidal
+# 👋 ¡Hola! Soy AloVidal
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador en crecimiento, apasionado por aprender y mejorar cada día en el mundo de la programación. Actualmente, tengo un dominio básico en **Python**, **HTML**, **CSS** y **JavaScript**, y estoy avanzando constantemente para llevar mis habilidades al siguiente nivel.
+Bienvenido a mi perfil de GitHub. Soy un programador en crecimiento, enfocado mejorar cada día en el mundo de la programación. Actualmente, tengo un dominio básico en **Python**, **HTML**, **CSS** y **JavaScript**, y estoy avanzando constantemente para llevar mis habilidades al siguiente nivel.
 
 ---
 
@@ -23,7 +23,6 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador en crecimiento, apasionad
 ### 🌐 Conéctate conmigo
 
 - GitHub: [@alovidal](https://github.com/alovidal)
-- LinkedIn: [LinkedIn de Alonso](https://www.linkedin.com/) *(actualiza este enlace si tienes LinkedIn)*
 
 ---
 
